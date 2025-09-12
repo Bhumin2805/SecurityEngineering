@@ -236,3 +236,4 @@ This part of task 4 is to check yourself with haveibeenpwned. This should let yo
 
 ### Feedback
 Be sure to give feedback on these tasks. Do you feel these to be the kind of skills you might need or want?
+Answer:- Yes these exercises are helpful to develop skills in the cyber security.
