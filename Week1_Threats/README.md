@@ -34,61 +34,80 @@ You should setup the courses virtual machine and get it ready with docker workin
 
 ### Task 1: What measures have you taken to protect yourself from cyber crimes?
 
-Write a short description of the actions you have done to fortify your defenses towards all sorts of cyber crimes, including possible servers and accounts you have. Please keep in mind not to include any specific details, such as passwords or tokens.
+Answer : 
 
-Have you been a victim of cyber crimes and do you think you could have prevented them? For example phishing and malware attacks. What could you improve on?
+Yes, I have been a victim of cyber crime. I could have have prevented them. I was receiving some phishing emails from some unknown or unverified email address. while surfing on net on my network, I was once infected with adware via a malicious software downloaded as a virus. This could have been prevented with stricter network segmentation and more controlled user permissions on that specific device.
 
-Please keep your answer concise, bullet points are acceptable, but remember to answer atleast all mentioned topics.
-
+Actions I have taken to fortify defenses:
+* I use a popular password manager to create long, complex, and unique passwords for every account and websites. This prevents a risk of hacking. Also I dont save this as a note in smart phone or any other online platform. 
+* All my applications and softwares are on automated software updation mode. So, They cant be hacked easily. 
+* I always use VPN security to avoid open or unknown networks. Also I dont use public  or open wifi networks. 
+* I have taken backup for all my data and files on offline mode.
+* I avoid to click on any random links and download it
+  
+Area of Improvement:
+* Better software updation ontime and regular interval checking of systems update . 
+* Should Invest in more advanced, dedicated firewall hardware or software solutions for deeper safety.
 ---
 
 ### Task 2: Company Security Policy
-Pick two topics from the list below to write a security policy on.
-An effort should be made to include one policy on one A4 page. 
-
-<details>
-<summary>Topics</summary>
-<br>
+Answer:- 
 
 - Password policy
-- Physical access policy
-- Cloud usage/security policy
-- System authentication policy
-- Network perimeter security policy
+
+* A password should be strong and Unique.
+* Password must be at least 14 characters long.
+* It shoulde be complex and It should be contain Uppercase letters, Lowercase letters, Numbers, Symbols.
+* Do not use your birthday or name etc. So that nobody can guess your password.
+* Never share your password with anyone.
+* If you forget your password, please contact the IT Help Desk to reset it.
+* Do not reuse password. Always create a new password and not the repeated one.
+* After entering your password, you'll need to approve the login with something you have, in which you will receive a code and you need to approve that from any device, like your phone.
+* Make sure to use VPN (Virtual Private Network). It is secure network that lets you connect to our office network from home or anywhere.
+
 - Social media security policy
-- BYOD(Bring Your Own Device) policy
-- General purpose information security policy
 
-</details>
+* Think Twice Before You Post anything on social media platform.
+* Do not share any confidential information like financial issues, Future plans, upcoming projects, etc. about our company.
+* If you are sharing any information about the company than it is better to ask your manager before post on social media.
+* Whenever you post about the company, make sure your post should be respectful and your words should be chosen wisely.
+* Make sure your account is private and if it is public than you have to be careful because your account can be hacked easily.
+* If anything posted on your account is not done by you than inform your manager and IT team immediately and also don't forget to delete it.
+* Be careful with any direct messages or links you received on social media. If you don't know, don't click it. 
 
-These policies are to be kept quite straight-forward and easily understandable for any employee, this includes explaining certain not well-known topics, for example a VPN or a network perimeter. The second lecture "Threat Models and Security Policies" gives very good advice on how to write sensible policies.
 
-You should also check [this](https://csrc.nist.rip/publications/nistpubs/800-12/800-12-html/chapter5.html) for detailed advice and explanation on for example types of policies. For example chapter 5.2.2 gives good insight on what basic components are good for issue-specific policies.
-You don't have to contain yourself to just text, you may include for example pictures and data-flow charts where beneficial.
-
----
 
 ### Task 3: Threat Modelling
 
-Recommended to check out this very tight package on threat modelling. [The privacyguides' threat modelling info package.](https://www.privacyguides.org/en/basics/threat-modeling/) 
 
-<details>
-<summary>Here's the essential points you can find in the above link:</summary>
-<br>
+- Identify your assets. WHAT do you want to protect?
+  Answer:- I want to protect all my devices like mobile, laptop, Tablet etc. Moreover all the data and information I have in these devices.
+         - All the accounts like gmail and other app account and their password and text messages. All of these are important and needs to be protect.
 
-- Identify your assets. WHAT do you want to protect? 
-
+  
 - Who are your potential adversaries. WHO do you want to protect from? 
+  Answer:- I want to protect from my employers, my relatives, friends, hackers and my business compititors.
 
-- Assess the threats and likelyhoods of them for each of your assets. How LIKELY is it that you will need to protect it? 
+  
+- Assess the threats and likelyhoods of them for each of your assets. How LIKELY is it that you will need to protect it?
+  Answer:- mobile is the most important devices for us nowadays and all of my data is in my mobile, so it can be harmful if it will be hacked, because there are photos and videos which can be misused.
+         - Laptop is also imporant device to protect as it contains my all documents and information.
+         - Gmail account contains all the important mail and it needs to be protect.
+         - Password is Also important because without password we can not open any of our account. So it is important to protect the password, so hacker will also can't login our account easily.
 
-- Evaluate impact if an asset is compromised. How bad are the CONSEQUENCES if you fail? 
+- Evaluate impact if an asset is compromised. How bad are the CONSEQUENCES if you fail?
+  Answer:- My photos and videos can be misused with the usage of AI.
+         - Hacker can blackmail me for some benefits. I can loose my reputation, I might be face financial issues.
 
 - Cost. How much trouble and time are you willing to spend to prevent the consequences? 
+  Answer:- To prevent the consequences I will use passowrd manager to protect my password and also I can use authentification for login.
+         - For software and apps I will use the regular software update.
+         - I will use VPN to protect my network from any unknown and open network.
+  
+- Mitigate or mitigation plan; determine what you can do now and what to do if compromised.
+  Answer:- For now I will use the password manager to protect the password, Use software update for software and for network I use VPN
+         - If compromised then I will logout from all my account and change the password immediately. For all the software and other data I will restore all of them.
 
-- Mitigate or mitigation plan; determine what you can do now and what to do if compromised. 
-
-</details>
 
 ### Task 3A: [Threat Dragon](https://owasp.org/www-project-threat-dragon/) (1p)
 
